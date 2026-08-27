@@ -136,5 +136,5 @@ VITE_API_URL=https://your-api.onrender.com/api
 ---
 
 ## Data Disclaimer
-
+https://github.com/SDAIAAcademy
 The dataset is a global Kaggle dataset and is **not** representative of the Saudi Arabia labor market unless explicitly filtered for SA records. All metrics are clearly labeled by source.
