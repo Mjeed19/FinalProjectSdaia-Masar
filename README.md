@@ -3,7 +3,7 @@
 منصة ذكاء مهني تفاعلية لتحليل رواتب ووظائف الذكاء الاصطناعي وعلوم البيانات.
 
 ---
-
+https://finalprojectsdaia-masar-1.onrender.com لزيارة الموقع:
 ## Project Overview
 
 Masar transforms 105,000+ real job and salary records (2020–2025) into an interactive career intelligence dashboard. It helps users explore salaries, compare careers, find their best-fit role, and ask an AI assistant powered by real data.
